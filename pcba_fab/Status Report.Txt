@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [Populated] of Project [cereal.PrjPCB]
+   Generated File[Bill of Materials-cereal(Populated).csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:40:07 PM On 11/18/2020

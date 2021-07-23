@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: cereal-pcb.PcbDoc   11/18/2020  8:40:05 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : cereal-pcb-RoundHoles.TXT
+ASCII SlotHoles File : cereal-pcb-SlotHoles.TXT
+EIA File   : cereal-pcb.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             9         PTH        0.00inch (0.00mm)
+T2      8mil (0.203mm)                                            Round             66        PTH        0.00inch (0.00mm)
+T3      16mil (0.4mm)                                             Round             28        PTH        0.00inch (0.00mm)
+T4      24mil (0.6mm)                                             Slot              8         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              111
+
+Total Processing Time (hh:mm:ss) : 00:00:00
